@@ -10,7 +10,6 @@ This repository contains my solution for Assignment #2 of the course **Machine L
 - `src/` – Custom classes and functions (e.g., `ClassifierCV`, `ClassSpecificImputer`)
 - `models/` – Saved final model (`.pkl`)
 - `figures/` – Generated plots
-- `report/` – LaTeX report (optional)
 - `*.csv/png` – Evaluation results and visualizations
 
 ---

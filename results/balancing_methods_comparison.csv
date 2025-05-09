@@ -1,0 +1,7 @@
+Method,Accuracy,F1,Recall,Precision,ROC AUC
+Baseline (Imbalanced),1.0,1.0,1.0,1.0,1.0
+SMOTE,1.0,1.0,1.0,1.0,1.0
+Random Oversampling,0.9807692307692307,0.9743589743589743,1.0,0.95,1.0
+Random Undersampling,1.0,1.0,1.0,1.0,1.0
+NearMiss,1.0,1.0,1.0,1.0,1.0
+Class Weighting,0.9807692307692307,0.9743589743589743,1.0,0.95,1.0
